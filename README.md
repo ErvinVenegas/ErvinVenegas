@@ -5,11 +5,11 @@
 ---
 Sobre mi:👨‍💻
 
-Soy estudiante de la carrera de licenciatura en computacion de la universidad UABJO ,estoy aprendiendo sobre programacion web y aplicaciones.
+Soy estudiante de la carrera de licenciatura en computacion de la universidad UABJO ,lo que me interesa mas es aprender  sobre programacion web y aplicaciones.
 
 
 
-🎯 lOS LENGUAJES QUE USO :
+🎯 los lenguajes que estoy aprendiendo :
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -18,11 +18,9 @@ Soy estudiante de la carrera de licenciatura en computacion de la universidad UA
 </p>
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Mi contacto </h3>
 
 <br>
-
-
 
 <p align="center">
 <a href="mailto:ervin.venegas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ervin.venegas@gmail.com-blue?style=flat-square&logo=gmail"></a>
