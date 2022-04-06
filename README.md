@@ -4,19 +4,9 @@
 
 
 ---
-About me:👨‍💻
+Sobre mi:👨‍💻
 
-Soy estudiante de la carrera de licenciatura en computacion de la universidad UABJO,.
-
-
----
-
-- 🔭 I’m currently working on ...
-
-
-- 🌱 I’m currently learning ...
-
-REACT, JS, TS y much more, besides that I already have mora than a year with the Platzi Platform were I have achieve enourmous goals, like the Englis School, Ths JavasScript Schosl and the Pgrogram Fundament School.
+Soy estudiante de la carrera de licenciatura en computacion de la universidad UABJO ,estoy aprendiendo sobre programacion web y aplicaciones.
 
 
 
@@ -28,6 +18,17 @@ REACT, JS, TS y much more, besides that I already have mora than a year with the
   
 </p>
 
-## 🌎 &nbsp;&nbsp;Find me around the web:
--EmaiL ervin.venegas@gmail.com
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+<a href="mailto:ervin.venegas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ervin.venegas@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=ErvinVenegas&theme=buefy&show_icons=true&hide=contribs" />
+</p>
