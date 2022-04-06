@@ -1,8 +1,7 @@
-### Hi there 👋
-
-
-
-
+### HOLA A TODOS 👋
+<div align="center">
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
 ---
 Sobre mi:👨‍💻
 
@@ -10,7 +9,7 @@ Soy estudiante de la carrera de licenciatura en computacion de la universidad UA
 
 
 
-🎯   Some technologies I use:
+🎯 lOS LENGUAJES QUE USO :
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -32,3 +31,4 @@ Soy estudiante de la carrera de licenciatura en computacion de la universidad UA
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=ErvinVenegas&theme=buefy&show_icons=true&hide=contribs" />
 </p>
+
