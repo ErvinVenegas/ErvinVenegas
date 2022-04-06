@@ -1,25 +1,33 @@
-package main
+### Hi there 👋
 
-import (
-	"fmt"
-)
 
-type Bio map[string]string
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+---
+About me:👨‍💻
+
+Soy estudiante de la carrera de licenciatura en computacion de la universidad UABJO,.
+
+
+---
+
+- 🔭 I’m currently working on ...
+
+
+- 🌱 I’m currently learning ...
+
+REACT, JS, TS y much more, besides that I already have mora than a year with the Platzi Platform were I have achieve enourmous goals, like the Englis School, Ths JavasScript Schosl and the Pgrogram Fundament School.
+
+
+
+🎯   Some technologies I use:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E" alt="Java" />&nbsp;&nbsp;
+  
+</p>
+
+## 🌎 &nbsp;&nbsp;Find me around the web:
+-EmaiL ervin.venegas@gmail.com
+
